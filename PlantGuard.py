@@ -10,7 +10,7 @@ import tempfile
 import numpy as np
 
 # Configura tu clave de API de Cohere
-api_key = 'hbQiPzAvoKRmFosdnKccUwezpQX0cPSfYpiByq1y'
+api_key = os.getenv('COHERE_API_KEY')
 co = cohere.Client(api_key)
 
 # Función para obtener respuesta de Cohere
