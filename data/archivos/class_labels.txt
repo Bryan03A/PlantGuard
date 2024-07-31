@@ -1,0 +1,38 @@
+0,Manzana: Moteado de la manzana
+1,Manzana: Podredumbre negra
+2,Manzana: Oxido de maña
+3,Manzana: Saludable
+4,Arándano: Saludable
+5,Cereza: Mildiu polvoriento
+6,Cereza: Saludable
+7,Maíz: Punto de hoja (Cercospora - Mancha gris)
+8,Maíz: Marchitez común
+9,Maíz: Podredumbre de la hoja Norteña
+10,Maíz: Saludable
+11,Uva: Podredumbre negra
+12,Uva: Esca (Manchas negras)
+13,Uva: Punto de hoja (Mancha de Isariopsis)
+14,Uva: Saludable
+15,Naranja: Huanglongbing (Amarillamiento del cítrico)
+16,Durazno: Mancha bacteriana
+17,Durazno: Saludable
+18,Pimiento: Mancha bacteriana
+19,Pimiento: Saludable
+20,Papa: Pudrición temprana
+21,Papa: Pudrición tardía
+22,Papa: Saludable
+23,Frambuesa: Saludable
+24,Soja: Saludable
+25,Calabacín: Mildiu polvoriento
+26,Fresa: Quemadura de la hoja
+27,Fresa: Saludable
+28,Tomate: Mancha bacteriana
+29,Tomate: Pudrición temprana
+30,Tomate: Pudrición tardía
+31,Tomate: Moho de la hoja
+32,Tomate: Mancha de Septoria
+33,Tomate: Ácaros araña (Ácaro de dos puntos)
+34,Tomate: Mancha objetivo
+35,Tomate: Virus de rizado de la hoja del tomate
+36,Tomate: Virus del mosaico del tomate
+37,Tomate: Saludable

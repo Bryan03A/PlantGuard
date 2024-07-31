@@ -1,0 +1,12 @@
+streamlit
+Pillow
+opencv-python-headless
+numpy
+tensorflow
+tensorflow-hub
+joblib
+pandas
+requests
+cohere
+scikit-learn
+

@@ -1,0 +1,38 @@
+Manzana: Moteado de la manzana,Sierra
+Manzana: Podredumbre negra,Sierra
+Manzana: Óxido común,Sierra
+Manzana: Saludable,Sierra
+Arándano: Saludable,Oriente
+Cereza: Mildiu polvoriento,Sierra
+Cereza: Saludable,Sierra
+Maíz: Punto de hoja (Cercospora - Mancha gris),Sierra
+Maíz: Marchitez común,Sierra
+Maíz: Podredumbre de la hoja Norteña,Sierra
+Maíz: Saludable,Sierra
+Uva: Podredumbre negra,Sierra
+Uva: Esca (Manchas negras),Sierra
+Uva: Punto de hoja (Mancha de Isariopsis),Sierra
+Uva: Saludable,Sierra
+Naranja: Huanglongbing (Amarillamiento del cítrico),Costa
+Durazno: Mancha bacteriana,Sierra
+Durazno: Saludable,Sierra
+Pimiento: Mancha bacteriana,Sierra
+Pimiento: Saludable,Sierra
+Papa: Pudrición temprana,Sierra
+Papa: Pudrición tardía,Sierra
+Papa: Saludable,Sierra
+Frambuesa: Saludable,Oriente
+Soja: Saludable,Oriente
+Calabacín: Mildiu polvoriento,Sierra
+Fresa: Quemadura de la hoja,Sierra
+Fresa: Saludable,Sierra
+Tomate: Mancha bacteriana,Sierra
+Tomate: Pudrición temprana,Sierra
+Tomate: Pudrición tardía,Sierra
+Tomate: Moho de la hoja,Sierra
+Tomate: Mancha de Septoria,Sierra
+Tomate: Ácaros araña (Ácaro de dos puntos),Sierra
+Tomate: Mancha objetivo,Sierra
+Tomate: Virus de rizado de la hoja del tomate,Sierra
+Tomate: Virus del mosaico del tomate,Sierra
+Tomate: Saludable,Sierra

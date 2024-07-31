@@ -1,0 +1,24 @@
+Esmeraldas,Costa
+Guayas,Costa
+Los Ríos,Costa
+Manabí,Costa
+Santa Elena,Costa
+Santo Domingo de los Tsáchilas,Costa
+El Oro,Costa
+Galápagos,Costa
+Azuay,Sierra
+Bolívar,Sierra
+Cañar,Sierra
+Carchi,Sierra
+Chimborazo,Sierra
+Cotopaxi,Sierra
+Imbabura,Sierra
+Loja,Sierra
+Pichincha,Sierra
+Tungurahua,Sierra
+Sucumbíos,Oriente
+Napo,Oriente
+Pastaza,Oriente
+Morona Santiago,Oriente
+Zamora-Chinchipe,Oriente
+Orellana,Oriente
